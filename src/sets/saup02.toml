@@ -1,0 +1,27 @@
+title =  "Sunday Afternoon Uplift 002"
+description = "1 Nothing to Fear (New World Epic Intro Mix) by Blue Silence & Matt Chowski
+2 Tears for You by Etasonic
+3 See The Sun (Dima Krasnik Dub Mix) by Tom Tyler, ASP Project
+4 Hope Remains (4 Seas & Stacie Remix) by Dominik Walter & Giovannie De Sadeleer
+5 Third Mode Melody (Natlife 5 Late Century Mix) by Natlife feat Thomas Tallis
+6 Hello Sunrise by Joer van Ray
+7 Aeterna Historia by Sound Apparel
+8 Last Goodbye (John Sunlight Remix) by George Bakh
+9 Empathy by Afternova
+10 When We Collide (feat. Becca White) by Simon Bostock
+11 Endless (Intro Mix) by Illitheas
+12 Lenda by SoundLift
+13 Nature Poesia (Emotional Mix) by Time2Rest
+14 Whirling Dervishes by Receptive & New World
+15 The Silver Tree (Original Emotional Mix) by Playme
+16 For Love (Emotional Mix) by Playme
+17 Electric Waves by Mhammed El Alami, Nathan Brumley
+18 Life Starter by Alex Shevchenko"
+url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-002/"
+date = "June 1 2015"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift002.mp3"
+	length = 158500209
+	type = "audio/mp4a-latm"

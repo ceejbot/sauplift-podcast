@@ -1,0 +1,10 @@
+title = "Sunday Afternoon Uplift"
+description = "A two-hour uplifting trance podcast by Ceejbot"
+generator = "sauplift-podcast"
+feed_url = "http://ceejbot.com/sauplift/feed.rss"
+site_url = "http://ceejbot.com/sauplift/"
+image_url = "http://ceejbot.com/sauplift/cover.jpg"
+author = "C J Silverio <ceejceej@gmail.com>"
+categories = [ "music", "trance","uplifting trance","podcast","dj", "dj set"]
+itunesKeywords = [ "music", "trance","uplifting","podcast","dj" ]
+itunesExplicit = false

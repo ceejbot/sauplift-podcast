@@ -1,0 +1,27 @@
+title =  "Sunday Afternoon Uplift 003"
+description = "1 Epica (Intro Mix) by Illitheas
+2 Nature Poesia (Emotional Mix) by Time2Rest
+3 Tranquility by Afternova
+4 Liberate by Daniel Kandi & Robert Nickson
+5 The Green March by Karim Raji
+6 Electric Waves (Cold Rush Remix) by Mhammed El Alami, Nathan Brumley
+7 Life Starter by Alex Shevchenko
+8 Beyond The Stars (Emotional Mix) by Kelly Andrew
+9 Anahera (Radio Edit) by Ferry Corsten & Gouryella
+10 Tears for You by Etasonic
+11 Waiting feat. Emma Hewitt (Vocal Mix) by Dash Berlin, Emma Hewitt
+12 Hello Sunrise (Original Mix) by Joer van Ray
+13 Origami (Ferry Tayle Emotional Remix) by Dimension
+14 Aeterna Historia by Sound Apparel
+15 Midnight Dreams (Etasonic Remix) by Martin Libsen
+16 When We Collide (Original Mix) by Simon Bostock, Becca White
+17 Last Goodbye (Etasonic Remix) by George Bakh
+18 Remember This Day by Afternova & Kelly Andrew"
+url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-003/"
+date = "June 28 2015"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift003.mp3"
+	length = 163909345
+	type = "audio/mpeg"

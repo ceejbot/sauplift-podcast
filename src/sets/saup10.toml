@@ -1,0 +1,31 @@
+title =  "Sunday Afternoon Uplift 010"
+description = "1 Maria (Ambient Mix) by Ciaran McAuley
+2 Let There Be Light (Up & Forward Remix) by Vax
+3 Fallen Leaves by Mobil, Mhammed El Alami
+4 The Cry Within (Miroslav Vrlik Remix) by Allen & Envy
+5 Helia feat. Crystal Blakk (Extended Mix) by Jonathan Carvajal, Crystal Blakk, Omar Sherif
+6 Moments Like These by Ciaran McAuley
+7 Isla (Extended Mix) by Ciaran McAuley
+8 Halion by Illitheas
+9 Halcyon (Extended Mix) by Alex van ReeVe
+10 Lionheart by Manuel Rocca
+11 Elysium by Peter Steele
+12 Origin (Extended Mix) by Suncatcher
+13 It Doesn't Rain Forever (Giuseppe Ottaviani Fix) by Ciaran McAuley
+14 Anthea by Ronny K., First Sight
+15 Dreamlands of Kadath (Paul Di White Remix) by Alex Shevchenko
+16 Venezuela (Extended Mix) by Dan Stone
+17 Zephyr by ReOrder
+18 Genesis (Sunbrothers Remix) by Kir Tender
+19 Release Yourself by Amine Maxwell, Mhammed El Alami
+20 Sounds by Danny Claire, Attila Syah
+21 Rising Sun by Miroslav Vrlik
+22 Hope Lies Beyond (Mhammed El Alami Remix) by Type 41"
+url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-010/"
+date = "May 8 2016"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift010.m4a"
+	length = 158501009
+	type = "audio/mp4a-latm"

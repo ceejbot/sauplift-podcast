@@ -1,0 +1,17 @@
+{
+  "name": "sauplift-podcast",
+  "description": "Sunday Afternoon Uplifting podcast rss generator",
+  "version": "1.0.0",
+  "author": "C J Silverio <ceejceej@gmail.com>",
+  "dependencies": {
+    "podcast": "~0.2.2",
+    "toml": "~2.3.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
