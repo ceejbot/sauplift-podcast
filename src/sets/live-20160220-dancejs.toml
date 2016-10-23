@@ -1,0 +1,26 @@
+title =  "DanceJS Live: npmcamp afterparty"
+description = "My live set at Oakland DanceJS on Feb 20, 2016. I was asked to play a cheerful set, and that's what this is! This set features a lot of slow transitions with tracks playing over each other.
+
+<ol>
+<li>Over The Rings of Saturn (Original Mix) by Dim Line</li>
+<li>Lovestruck (Original Mix) by Suncatcher</li>
+<li>Across the Edge (Club Mix) by Thomas Datt</li>
+<li>Indigo - Original Extended Mix by Ferry Corsten</li>
+<li>Amaze (Original Mix) by Luke Bond</li>
+<li>Only for You (Arctic Moon Remix) by Ahmed Romel</li>
+<li>Last Goodbye (John Sunlight Remix) by George Bakh</li>
+<li>Fields of la Tourette by New World</li>
+<li>Paradisum (Original Mix) by Ahmed Romel</li>
+<li>Lenda by SoundLift</li>
+<li>All I Need (Suncatcher Remix) by Aurosonic, Katty Heath, Frainbreeze</li>
+<li>The Things We Should Say (Solarstone Pure Mix) by Bryan Kearney</li>
+</ol>"
+mixcloud = "https://beta.mixcloud.com/ceejbot/dancejs-20-feb-2016/"
+url = "https://ceejbot.com/sauplift/live-20160220-dancejs.html"
+date = "February 20 2016"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/live-20160220-dancejs.m4a"
+	length = 121696488
+	type = "audio/mp4"

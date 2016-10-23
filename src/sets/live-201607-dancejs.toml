@@ -1,0 +1,28 @@
+title =  "DanceJS Live: npmcamp afterparty"
+description = "\"People assume that time is a strict progression of cause to effect, but actually — from a non-linear, non-subjective viewpoint — it's more like a big ball of wibbly-wobbly... timey-wimey... stuff.\"
+
+One hour of danceable uplifting trance for the npmcamp afterparty, featuring silky slow transitions and good cheer.
+
+<ol>
+<li>Maria (Ambient Mix) by Ciaran McAuley</li>
+<li>Pianeta Terra (Dim Line Remix) by Qpolit</li>
+<li>Dual Universe (Blue Twinkle Remix) by Dim Line</li>
+<li>Lovestruck (Original Mix) by Suncatcher</li>
+<li>Anahera (Extended Mix) by Ferry Corsten & Gouryella</li>
+<li>Doctor Who (Original Mix) by Giuseppe Ottaviani</li>
+<li>Opener (Original Mix) by James Cottle</li>
+<li>Helia feat. Crystal Blakk (Extended Mix) by Jonathan Carvajal, Crystal Blakk, Omar Sherif</li>
+<li>Isla (Extended Mix) by Ciaran McAuley</li>
+<li>Last Forever (Original Mix) by Illitheas</li>
+<li>Golden (Ferry Tayle Remix) by Kyler England, Thomas Hayes</li>
+<li>Tears of Hope (Club Mix) by Illitheas, Johannes Fischer</li>
+</ol>"
+mixcloud = "https://beta.mixcloud.com/ceejbot/dancejs-live-july-2016/"
+url = "https://ceejbot.com/sauplift/live-201607-dancejs.html"
+date = "July 16 2016"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/live-201607-dancejs.m4a"
+	length = 121696488
+	type = "audio/mp4"

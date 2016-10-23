@@ -1,0 +1,32 @@
+title =  "DanceJS Live: September 25 2015"
+description = "<p>Live set at the DanceJS September event.</p>
+
+<ol>
+<li>A New Beginning (Original Mix) by Max Gueli
+<li>Zocalo (Original Mix) by Armin van Buuren feat Gabriel & Dresden
+<li>Star Field (Original Mix) by Fredrik Miller
+<li>Hands of Time by ReOrder & Sue McLaren
+<li>No One Like You (Original Mix) by Giuseppe Ottaviani
+<li>Into The Sky (2015 Remake) by Afternova
+<li>Electric Waves (Original Mix) by Mhammed El Alami, Nathan Brumley
+<li>Monarch (Original Mix) by New World
+<li>Cast Away (feat. Andrea Britton) by Mart Sine
+<li>Sundance (Thomas Datt Main Mix) by Sundance
+<li>Ushio by New World
+<li>Amaze (Original Mix) by Luke Bond
+<li>Velvet Sun (Aly & Fila Remix) by Majera
+<li>Balearic Dream (Plutian Remix) by Marco Mc Neil, Tobias F Weber
+<li>Last Goodbye (John Sunlight Remix) by George Bakh
+<li>Fields of la Tourette by New World
+<li>Epica (Club Mix) by Illitheas
+<li>Seagulls - PDM's Intro Rework by Santoz, PDM
+</ol>"
+mixcloud = "https://beta.mixcloud.com/ceejbot/dancejs-sept-25-2015-live/"
+url = "https://ceejbot.com/sauplift/live-201509-dancejs.html"
+date = "September 25 2015"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/live-201509-dancejs.mp3"
+	length = 121696488
+	type = "audio/mpeg"

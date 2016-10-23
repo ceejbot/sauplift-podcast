@@ -1,0 +1,30 @@
+title =  "BeatSpeak Live: May 2016"
+description = "My set at the inaugural BeatSpeak event in Oakland, <li>May 2016. No big-room clubby tracks here. Instead I stayed melodic. Had to vamp a bit at the end to fill time before they were ready for the speaker!</li>
+Technical notes: This was my first time playing live with Flow 8 Deck & the Machinewerks CS-X51.
+
+<ol>
+<li>Maria (Ambient Mix) by Ciaran McAuley</li>
+<li>Dual Universe (Blue Twinkle Remix) by Dim Line</li>
+<li>Lovestruck (Original Mix) by Suncatcher</li>
+<li>Helia feat. Crystal Blakk (Extended Mix) by Jonathan Carvajal, Crystal Blakk, Omar Sherif</li>
+<li>Isla (Extended Mix) by Ciaran McAuley</li>
+<li>Golden (Ferry Tayle Remix) by Kyler England, Thomas Hayes</li>
+<li>Tears of Hope (Club Mix) by Illitheas, Johannes Fischer</li>
+<li>Origin (Extended Mix) by Suncatcher</li>
+<li>Hear Me feat. Jaren (Aly & Fila Remix) by Jaren, Mohamed Ragab</li>
+<li>Galaxy (Michele Cecchi Remix) by David Surok</li>
+<li>New Rise (Original Mix) by Illitheas, Johannes Fischer, Mhammed El Alami</li>
+<li>Everything (Original Mix) by Sunbrothers</li>
+<li>Hope Lies Beyond (Mhammed El Alami Remix) by Type 41</li>
+<li>Give You My Love [feat. Adrina Thorpe] by SoundLift</li>
+<li>Paper Dreams (Ambient Mix) by Bjorn Akesson</li>
+</ol>"
+mixcloud = "https://beta.mixcloud.com/ceejbot/beatspeak-may-2016-live/"
+url = "https://ceejbot.com/sauplift/live-201605-beatspeak.html"
+date = "May 2016"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/live-201605-beatspeak.m4a"
+	length = 121696488
+	type = "audio/mp4"

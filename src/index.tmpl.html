@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>{{= it.title}}</title>
+		<link rel="alternate" type="application/rss+xml" title="Sunday Afternoon Uplift"
+			href="/feed.rss" />
+	</head>
+	<body>
+		<h1>Sunday Afternoon Uplift</h1>
+
+		<p>You probably want  <a href="https://ceejbot.com/sauplift/feed.rss">the
+			RSS feed</a>, not this page.</p>
+
+		<ul>
+			{{~it.sets :v:index}}
+			<li><a href="{{=v.slug}}.html">{{=v.title}}</a></li>
+			{{~}}
+		</ul>
+	</body>
+</html>

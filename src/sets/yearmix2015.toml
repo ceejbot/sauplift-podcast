@@ -1,0 +1,33 @@
+title =  "Yearmix 2015"
+description = "My favorite tracks of 2015, the tunes I wanted to listen to over and over and was tempted to put into every mix I made. 20 tracks, 7 vocal tracks and 13 instrumental. There are some staples of the genre that *don't* appear here because nothing they did this year caught my attention as hard as these tracks, so this is probably an idiosyncratic mix.
+My track of the year: George Bakh, \"Last Goodbye\", the John Sunlight mix.
+
+1 Endless (Intro Mix) by Illitheas
+2 Paradisum (Original Mix) by Ahmed Romel
+3 Epica (Club Mix) by Illitheas
+4 All I Need (Suncatcher Remix) by Aurosonic, Katty Heath, Frainbreeze
+5 The Things We Should Say (Solarstone Pure Mix) by Bryan Kearney
+6 You May Love (Mhammed El Alami Remix) by Simon O'Shine, Eskova
+7 Transylvania Cowgirl (Original Mix) by Suncatcher
+8 Hands of Time by ReOrder & Sue McLaren
+9 Into The Sky (2015 Remake) by Afternova
+10 Electric Waves (Original Mix) by Mhammed El Alami, Nathan Brumley
+11 Monarch (Original Mix) by New World
+12 Cast Away (feat. Andrea Britton) by Mart Sine
+13 Across the Edge (Club Mix) by Thomas Datt
+14 Anahera (Extended Mix) by Ferry Corsten & Gouryella
+15 Tengoku (Original Mix) by Hiroki Nagamine, Amber Traill, Spy
+16 Waiting feat. Emma Hewitt (Vocal Mix) by Dash Berlin, Emma Hewitt
+17 Never Ending Summer (Original Mix) by Marco Mc Neil
+18 Napoleon (Original Mix) by Aly & Fila, Ferry Tayle
+19 When We Collide (Original Mix) by Simon Bostock, Becca White
+20 Last Goodbye (John Sunlight Remix) by George Bakh"
+mixcloud = "https://beta.mixcloud.com/ceejbot/ceejbot-yearmix-2015/"
+url = "https://ceejbot.com/sauplift/yearmix2015.html"
+date = "January 15 2016"
+itunesDuration = 7105
+
+[enclosure]
+	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/yearmix2015.mp3"
+	length = 115208582
+	type = "audio/mpeg"
