@@ -15,7 +15,8 @@ description = "1 Ushio (Emotional Intro Mix) by New World
 14 Mass Effect 2.5 by Thomas Datt
 15 Everlasting (Emotional Mix) by Andy Blueman
 16 Seven Cities (Atlantis Mix) by Solar Stone"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-001/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-001/"
+url = "https://ceejbot.com/sauplift/saup001.html"
 date = "April 12 2015"
 itunesDuration = 7105
 

@@ -20,7 +20,8 @@ description = "1 Horizons (Chill Out Mix) by Robert Nickson & Re:Locate
 19 Waterland (Skylex Remix) by Braulio Stefield, Solar Traveler
 20 Sky Harbour (Allen Watts Extended Mix) by ReOrder
 21 Stealth Bomber (Chris Schweizer Remix) by Bryan Kearney"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-016/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-016/"
+url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift019.m4a"
 date = "September 18 2016"
 itunesDuration = 7105
 

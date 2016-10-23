@@ -26,7 +26,8 @@ description = "1 One Day (Extended Version) by Giuseppe Ottaviani
 25 Brightheart (OnAir Mix) by Giuseppe Ottaviani & Christian Burns
 26 Silence (Joseph Alam Remix) by Qpolit
 27 Happiness by David Surok"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-018/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-018/"
+url = "https://ceejbot.com/sauplift/saup018.html"
 date = "October 9 2016"
 itunesDuration = 8663
 

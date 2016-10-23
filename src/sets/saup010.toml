@@ -21,7 +21,8 @@ description = "1 Maria (Ambient Mix) by Ciaran McAuley
 20 Sounds by Danny Claire, Attila Syah
 21 Rising Sun by Miroslav Vrlik
 22 Hope Lies Beyond (Mhammed El Alami Remix) by Type 41"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-010/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-010/"
+url = "https://ceejbot.com/sauplift/saup010.html"
 date = "May 8 2016"
 itunesDuration = 7105
 

@@ -22,7 +22,8 @@ description = "1 Marrakech (Intro Mix) by Simon Bostock
 21 Memories (Original Mix) by Afternova
 22 Origin (Extended Mix) by Suncatcher
 23 Stratosphere by Aura Qualic"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-009/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-009/"
+url = "https://ceejbot.com/sauplift/saup009.html"
 date = "April 10 2016"
 itunesDuration = 7105
 

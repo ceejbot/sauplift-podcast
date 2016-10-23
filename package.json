@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "C J Silverio <ceejceej@gmail.com>",
   "dependencies": {
+    "dot": "~1.0.3",
     "podcast": "~0.2.2",
     "toml": "~2.3.0"
   },

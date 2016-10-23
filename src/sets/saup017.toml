@@ -23,6 +23,8 @@ description = "1 Lotus of The Nile (Sergey Shabanov Chillout Mix) by Sergey Shab
 22 Wormhole by Robert Nickson & Dimension"
 date = "September 25 2016"
 itunesDuration = 7105
+url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift019.m4a"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-017/"
 
 [enclosure]
 	url = "http://ceejbot-sauplift.s3-website-us-west-2.amazonaws.com/music/sauplift017.m4a"

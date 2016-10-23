@@ -25,4 +25,4 @@ build/Release
 node_modules
 
 .nyc_output
-feed.rss
+output

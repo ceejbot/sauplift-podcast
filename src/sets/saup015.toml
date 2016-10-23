@@ -21,7 +21,8 @@ description = "1 Rising (Max Gueli Mix) by Sovve
 20 DJ T.H., Salida Del Sol (Afternova Remix) by Cyre
 21 Touchdown (Original Mix) by Robert Nickson
 22 Blinding Light (Passenger 75 Uplifting Dub) by Mike Shiver"
-url = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-015/"
+mixcloud = "https://mixcloud.com/ceejbot/sunday-afternoon-uplift-015/"
+url = "https://ceejbot.com/sauplift/saup015.html"
 date = "September 5 2016"
 itunesDuration = 7105
 
